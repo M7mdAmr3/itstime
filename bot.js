@@ -57,7 +57,7 @@ client.on('message', message => { // لا تغير شئ عشان ما تخرب �
 if (message.content === '.sp') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 20; x++) {
+      for(let x = 0; x < 40; x++) {
         message.channel.send(`MOHAMED AMR FOOOOOOOOOOOO2[ " ${x} " ]`)
           .then(m => {
             count++;
@@ -68,10 +68,10 @@ if (message.content === '.sp') {
 });
 
 client2.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
-if (message.content === '.sp') {
+if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 20; x++) {
+      for(let x = 0; x < 40; x++) {
         message.channel.send(`MOHAMED AMR FOOOOOOOOOOOO2[ " ${x} " ]`)
           .then(m => {
             count++;
