@@ -57,8 +57,8 @@ client.on('message', message => { // لا تغير شئ عشان ما تخرب �
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 2; x++) {
-        message.channel.send(`somq qmd hhh[ " ${x} " ]`)
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`x...................................x[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -72,7 +72,7 @@ if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`somq qmd hhh[ " ${x} " ]`)
+        message.channel.send(`x...................................x[ " ${x} " ]`)
           .then(m => {
             count++;
           })
