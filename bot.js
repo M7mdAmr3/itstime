@@ -57,7 +57,7 @@ client.on('message', message => { // لا تغير شئ عشان ما تخرب �
 if (message.content === '.sp') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 20; x++) {
+      for(let x = 0; x < 9000; x++) {
         message.channel.send(`Spamm For Crediiiiiiiiiit.....#[ " ${x} " ]`)
           .then(m => {
             count++;
@@ -71,7 +71,7 @@ client2.on('message', message => { // لا تغير شئ عشان ما تخرب 
 if (message.content === '.sp2') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 20; x++) {
+      for(let x = 0; x < 9000; x++) {
         message.channel.send(`Spamm For Crediiiiiiiiiit.....#[ " ${x} " ]`)
           .then(m => {
             count++;
