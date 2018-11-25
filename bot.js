@@ -68,7 +68,7 @@ if (message.content === '.sp') {
 });
 
 client2.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
-if (message.content === '.sp') {
+if (message.content === '.sp2') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 20; x++) {
