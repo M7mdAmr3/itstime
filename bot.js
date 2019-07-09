@@ -74,7 +74,7 @@ if (message.content === '.1') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`Mohamed Amr Top xD[ " ${x} " ]`)
+        message.channel.send(`Mohamed Amr Top xD#[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -88,7 +88,7 @@ if (message.content === '.2') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`محمد عمرو فوق هه[ " ${x} " ]`)
+        message.channel.send(`محمد عمرو فوق هه#[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -102,7 +102,7 @@ if (message.content === '.3') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`TESTTTTTT[ " ${x} " ]`)
+        message.channel.send(`TESTTTTTT#[ " ${x} " ]`)
           .then(m => {
             count++;
           })
