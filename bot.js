@@ -55,10 +55,10 @@ client2.on('message', message => {
 
 client.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
 if (message.content === '.sp') {
-      let count = 0;
+      let count = 9000;
       let ecount = 0;
       for(let x = 0; x < 20; x++) {
-        message.channel.send(`777777777777777777777xxxxxxxxxxxxxxxdwe23234[ " ${x} " ]`)
+        message.channel.send(`AY HABD MN 7lwany el 3abbbbbbbbbDxxxxxxxxxD[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -69,10 +69,10 @@ if (message.content === '.sp') {
 
 client2.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
 if (message.content === '.sp') {
-      let count = 0;
+      let count = 9000;
       let ecount = 0;
       for(let x = 0; x < 20; x++) {
-        message.channel.send(`AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAsdddsf453445A[ " ${x} " ]`)
+        message.channel.send(`خخخخخخخخخ يكسمك فيه ايه ؟ a7a 555555[ " ${x} " ]`)
           .then(m => {
             count++;
           })
